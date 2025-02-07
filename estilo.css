@@ -867,7 +867,7 @@ body {
      }
 }
 
-@media(min-width:1020px){
+@media(min-width:1001px){
     .sobre-conteudo img{
         width:20000px ;
         height: auto;
